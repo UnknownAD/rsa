@@ -1,0 +1,12 @@
+we have those variables:
+p=19
+q=5
+n=95
+tolient=72
+e=11
+we only care about the exponement(e) and the tolient(72)
+that leads us to count gcd(72;11)
+11d mod 72=1
+72=6(11)+6
+11=1(6)+511
+6=1(5)+1
